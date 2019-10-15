@@ -104,6 +104,7 @@ UseDNS no
 #PermitTunnel no
 #ChrootDirectory none
 #VersionAddendum none
+AllowUsers root check
 
 # no default banner path
 #Banner none
@@ -120,3 +121,4 @@ Subsystem	sftp	/usr/lib/openssh/sftp-server
 #	AllowTcpForwarding no
 #	PermitTTY no
 #	ForceCommand cvs server
+
