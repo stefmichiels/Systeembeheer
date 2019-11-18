@@ -4,7 +4,7 @@
 ; Instead, copy it, edit named.conf, and use that copy.
 ;
 $TTL	86400
-@	IN	SOA	stef-michiels.sb.uclllabs.be root.stef-michiels.sb.uclllabs.be (
+@	IN	SOA	stef-michiels.sb.uclllabs.be admin.stef-michiels.sb.uclllabs.be (
 			      12		; Serial
 			 604800		; Refresh
 			  86400		; Retry
@@ -14,6 +14,7 @@ $TTL	86400
 	IN	NS	ns1.uclllabs.be.
         IN      NS      ns2.uclllabs.be.
         IN      NS      ns.stef-michiels.sb.uclllabs.be.
+	IN	NS	ns.arin-er.sb.uclllabs.be.
 
 1	IN	PTR	ns1.uclllabs.be.
 4	IN	PTR	ns2.uclllabs.be.
