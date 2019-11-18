@@ -11,10 +11,11 @@ $TTL	86400
 			300		; Expire
 			  300 )	; Negative Cache TTL
 ;
- stef-michiels.sb.uclllabs.be	IN	NS	ns.uclllabs.be.
+ stef-michiels.sb.uclllabs.be	IN	NS	ns1.uclllabs.be.
  stef-michiels.sb.uclllabs.be  IN      NS      ns2.uclllabs.be.
  stef-michiels.sb.uclllabs.be  IN      NS      ns.stef-michiels.sb.uclllabs.be.
 
 ns.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
 
 @	IN	A	193.191.177.180
+WWW	IN	A	193.191.177.180
