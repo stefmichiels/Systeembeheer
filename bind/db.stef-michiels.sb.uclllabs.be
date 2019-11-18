@@ -5,21 +5,23 @@
 ;
 $TTL	86400
 @	IN	SOA	ns.stef-michiels.sb.uclllabs.be. admin.stef-michiels.sb.uclllabs.be. (
-			      47839		; Serial
+			      47840		; Serial
 			 300		; Refresh
 			 300		; Retry
 			300		; Expire
 			  300 )	; Negative Cache TTL
 ;
- stef-michiels.sb.uclllabs.be	IN	NS	ns1.uclllabs.be.
- stef-michiels.sb.uclllabs.be  IN      NS      ns2.uclllabs.be.
- stef-michiels.sb.uclllabs.be  IN      NS      ns.stef-michiels.sb.uclllabs.be.
- stef-michiels.sb.uclllabs.be  IN      NS      ns.arin-er.sb.uclllabs.be.
+ 	IN	NS	ns1.uclllabs.be.
+   IN      NS      ns2.uclllabs.be.
+   IN      NS      ns.stef-michiels.sb.uclllabs.be.
+   IN      NS      ns.arin-er.sb.uclllabs.be.
 
 
 ns.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
 ns1.uclllabs.be.			IN	A	193.191.176.254
 ns2.uclllabs.be.			IN	A	193.191.177.4
 
-@	IN	A	193.191.177.180
-WWW	IN	A	193.191.177.180
+stef-michiels.sb.uclllabs.be.		IN	A	193.191.177.180
+www.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
+www1.stef-michiels.sb.uclllabs.be.        IN      A       193.191.177.180
+www2.stef-michiels.sb.uclllabs.be.        IN      A       193.191.177.180
