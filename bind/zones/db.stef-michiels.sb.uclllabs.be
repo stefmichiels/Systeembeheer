@@ -23,4 +23,4 @@ stef-michiels.sb.uclllabs.be.		IN	A	193.191.177.180
 www.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
 www1.stef-michiels.sb.uclllabs.be.        IN      A       193.191.177.180
 www2.stef-michiels.sb.uclllabs.be.        IN      A       193.191.177.180
-
+test.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
