@@ -1,7 +1,7 @@
 ;
 $TTL	86400
 @	IN	SOA	ns.stef-michiels.sb.uclllabs.be. admin.stef-michiels.sb.uclllabs.be. (
-			 47842		; Serial
+			 47844		; Serial
 			 604800		; Refresh
 			 86400		; Retry
 			 2419200		; Expire
@@ -23,4 +23,4 @@ stef-michiels.sb.uclllabs.be.		IN	A	193.191.177.180
 www.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
 www1.stef-michiels.sb.uclllabs.be.        IN      A       193.191.177.180
 www2.stef-michiels.sb.uclllabs.be.        IN      A       193.191.177.180
-test.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.180
+test.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.254
