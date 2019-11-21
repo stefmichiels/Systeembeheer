@@ -1,7 +1,7 @@
 ;
 $TTL	86400
 @	IN	SOA	ns.stef-michiels.sb.uclllabs.be. admin.stef-michiels.sb.uclllabs.be. (
-			 47846		; Serial
+			 47847		; Serial
 			 604800		; Refresh
 			 86400		; Retry
 			 2419200		; Expire
