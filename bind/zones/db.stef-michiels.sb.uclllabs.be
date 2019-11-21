@@ -28,4 +28,8 @@ test.stef-michiels.sb.uclllabs.be.	IN	A	193.191.177.254
 secure.stef-michiels.sb.uclllabs.be.         IN      A       193.191.177.180
 supersecure.stef-michiels.sb.uclllabs.be.         IN      A       193.191.177.180
 
+secure.stef-michiels.sb.uclllabs.be.	IN	CAA	0 issue "letsencrypt.org"
+secure.stef-michiels.sb.uclllabs.be.        IN      CAA     0 iodef "mailto:stef.michiels@student.ucll.be"  
 
+supersecure.stef-michiels.sb.uclllabs.be.     IN      CAA     0 issue "letsencrypt.org"
+supersecure.stef-michiels.sb.uclllabs.be.        IN      CAA     0 iodef "mailto:stef.michiels@student.ucll.be"
