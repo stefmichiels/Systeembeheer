@@ -9,5 +9,6 @@
 !scripts/
 !default/
 !apt/
+!letsencrypt/
 !.gitignore/
 
