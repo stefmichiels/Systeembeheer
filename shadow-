@@ -28,3 +28,4 @@ check:$6$NErMcs5K$JFxOY4/iw623.JrOZ5XGhkON/XEAqANp1QQ2q1oAPg9eJFtUr6MBj1jalh4eOW
 test:!:18184:0:99999:7:::
 ntp:*:18205:0:99999:7:::
 bind:*:18217:0:99999:7:::
+ftp:*:18233:0:99999:7:::

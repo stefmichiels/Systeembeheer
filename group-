@@ -54,3 +54,5 @@ check:x:1000:
 test:x:1001:
 incron:x:114:
 ntp:x:115:
+bind:x:116:
+ftp:x:117:
