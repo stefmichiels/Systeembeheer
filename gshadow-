@@ -56,3 +56,4 @@ incron:!::
 ntp:!::
 bind:!::
 ftp:!::
+wireshark:!::
