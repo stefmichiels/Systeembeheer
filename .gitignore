@@ -10,5 +10,6 @@
 !default/
 !apt/
 !letsencrypt/
+!netplan/
 !.gitignore/
 
