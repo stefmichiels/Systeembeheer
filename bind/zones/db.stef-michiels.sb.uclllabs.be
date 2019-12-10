@@ -1,7 +1,7 @@
 ;
 $TTL	86400
 @	IN	SOA	ns.stef-michiels.sb.uclllabs.be. admin.stef-michiels.sb.uclllabs.be. (
-			 47848		; Serial
+			 47849		; Serial
 			 604800		; Refresh
 			 86400		; Retry
 			 2419200		; Expire
@@ -36,3 +36,4 @@ supersecure.stef-michiels.sb.uclllabs.be.        IN      CAA     0 iodef "mailto
 
 stef-michiels.sb.uclllabs.be.		 IN	AAAA	 2001:6a8:2880:a077::b4
 ns.stef-michiels.sb.uclllabs.be.	 IN	AAAA	 2001:6a8:2880:a077::b4
+mx.stef-michiels.sb.uclllabs.be. 	 IN 	AAAA	 2001:6a8:2880:a077::b4
