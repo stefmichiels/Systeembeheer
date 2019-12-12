@@ -11,5 +11,7 @@
 !apt/
 !letsencrypt/
 !netplan/
+!ipv4rules
+!ipv6rules
 !.gitignore/
 
